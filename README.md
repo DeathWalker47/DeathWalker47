@@ -13,9 +13,9 @@
 - [Пленочная фотография - портфолио фотографа.](https://deathwalker47.github.io/photographer/app/)
 - [Harley-Davidson - лендинг интернет-магазина.](https://deathwalker47.github.io/harley/app/)
 
-<!-- ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
- -->
+### Статистика на GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=8000ff)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
