@@ -14,7 +14,7 @@
 - [Harley-Davidson - лендинг интернет-магазина.](https://deathwalker47.github.io/harley/app/)
 
 ### Статистика на GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=cccff&border_color=000000)](https://github.com/DeathWalker47/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=cccff&border_color=000000)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -24,10 +24,9 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-<!-- ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue) -->
 
-###Часто используемые языки
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWalker47)](https://github.com/DeathWalker47/github-readme-stats)
+### Часто используемые языки
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWalker47)
 
 ### Контакты
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/id178195666)
