@@ -25,6 +25,10 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 <!-- ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue) -->
+
+###Часто используемые языки
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWalker47)](https://github.com/DeathWalker47/github-readme-stats)
+
 ### Контакты
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/id178195666)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sfizer981/)
