@@ -14,7 +14,7 @@
 - [Harley-Davidson - лендинг интернет-магазина.](https://deathwalker47.github.io/harley/app/)
 
 ### Статистика на GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=cccff&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=cccff&border_color=000000)](https://github.com/DeathWalker47/github-readme-stats)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
