@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
 ### Часто используемые языки
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWalker47)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWalker47&layout=compact)
 
 ### Контакты
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/id178195666)
