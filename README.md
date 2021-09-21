@@ -7,6 +7,10 @@
 
 ### Мои работы!
 - [![Barbercrop](https://sfizer.ru/images/logo.png)](https://sfizer.ru/)
+- [![Lolly](http://portfolio.sfizer.ru/images/Logo.svg)](http://portfolio.sfizer.ru/)
+- [![Broms](https://deathwalker47.github.io/broms/dist/images/logo.svg)](https://deathwalker47.github.io/broms/dist/)
+- [![Crope](https://deathwalker47.github.io/crope/app/images/logo.png)](https://deathwalker47.github.io/broms/dist/)
+- [![Harley-Davidson](https://deathwalker47.github.io/harley/app/images/logo.png)](https://deathwalker47.github.io/harley/app/)
 - [Barbercrop - услуги барбершопа.](https://sfizer.ru/)
 - [Lolly - интернет-магазин.](http://portfolio.sfizer.ru/)
 - [Broms - сайт-визитка фотографа.](https://deathwalker47.github.io/broms/dist/)
