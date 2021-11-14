@@ -6,12 +6,15 @@
 Я люблю то, чем я занимаюсь. Меня не пугают сложные задачи, я готов сидеть над их решением до тех пор, пока не найду способ выполнения данной проблемы. Я буду и дальше развиваться в этой сфере, а в планах на ближайшее будушее - углубленное изучение JavaScript и посадка сайтов на WordPress.
 
 ### Мои работы!
-- [Barbercrop - услуги барбершопа.](https://sfizer.ru/)
-- [Lolly - интернет-магазин.](http://portfolio.sfizer.ru/)
-- [Broms - сайт-визитка фотографа.](https://deathwalker47.github.io/broms/dist/)
-- [Crope - корпоративный сайт.](https://deathwalker47.github.io/crope/app/)
-- [Пленочная фотография - портфолио фотографа.](https://deathwalker47.github.io/photographer/app/)
-- [Harley-Davidson - лендинг интернет-магазина.](https://deathwalker47.github.io/harley/app/)
+- [Технологические системы](https://techsyssamara.com/)
+- [Это мой сайт-портфолио.](https://sfizer.ru/)
+- [Desart - студия веб-дизайна.](https://sfizer.ru/desart/index.html)
+- [Barbercrop - сайт для барбершопа.](https://sfizer.ru/barbercrope/index.html)
+- [Lolly - интернет-магазин.](https://sfizer.ru/lolly/index.html)
+- [Broms - сайт-визитка фотографа.](https://sfizer.ru/broms/index.html)
+- [Crope - корпоративный сайт.](https://sfizer.ru/crope/index.html)
+- [Пленочная фотография - портфолио фотографа.](https://sfizer.ru/photographer/index.html)
+- [Harley-Davidson - лендинг интернет-магазина.](https://sfizer.ru/harley/index.html)
 
 ### Статистика на GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=cccff&border_color=000000)
