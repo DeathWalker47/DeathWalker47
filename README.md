@@ -24,7 +24,7 @@
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
-![PUG](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg)
+![PUG](https://im0-tub-ru.yandex.net/i?id=c8cfbb3d8c4f8eae4ea52c9bf3e5ef5b-sr&n=13&exp=1)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
