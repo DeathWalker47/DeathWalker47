@@ -27,10 +27,12 @@
 ![PUG](https://img.shields.io/badge/-PUG-333?style=for-the-badge&logo=pug)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![FIGMA](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 
 ### Часто используемые языки
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWalker47&layout=compact&theme=dark&border_color=000)
