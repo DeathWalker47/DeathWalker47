@@ -11,13 +11,13 @@
 
 
 ### Некоторые из моих работ!
+- [Banu - сайт по продаже NFT.](https://sfizer.ru/banu-nft/index.html)
 - [Desart - студия веб-дизайна.](https://sfizer.ru/desart/index.html)
 - [Barbercrop - сайт для барбершопа.](https://sfizer.ru/barbercrope/index.html)
 - [Lolly - интернет-магазин.](https://sfizer.ru/lolly/index.html)
 - [Broms - сайт-визитка фотографа.](https://sfizer.ru/broms/index.html)
 - [Crope - корпоративный сайт.](https://sfizer.ru/crope/index.html)
 - [Пленочная фотография - портфолио фотографа.](https://sfizer.ru/photographer/index.html)
-- [Harley-Davidson - лендинг интернет-магазина.](https://sfizer.ru/harley/index.html)
 
 ### Статистика на GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathWalker47&show_icons=true&hide=prs,issues,contribs&theme=dark&locale=ru&icon_color=cccff&border_color=000000)
